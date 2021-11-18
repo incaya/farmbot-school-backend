@@ -1,4 +1,4 @@
-# Python API and Lib to use Farmbot in school context
+# Python API to use Farmbot in *multi-user* context
 
 API built with [flask](https://flask.palletsprojects.com/en/1.1.x/) RESTFul toolkits (see requirements.txt root file for more informations).
 
