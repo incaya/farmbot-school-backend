@@ -1,0 +1,21 @@
+{
+    "farmbot-api" : {
+        "url": "https://my.farm.bot",
+        "email": "farmbot@example.com",
+        "password": "my_farmbot_pass"
+    },
+    "db": {
+        "host": "my_postgresql_server_hostname",
+        "port": "my_postgresql_server_port",
+        "name": "database name on server",
+        "user": "my_user",
+        "password": "user_password',
+        "admin_email": "admin@school.org",
+        "admin_password": "4dm1n_5chool!",
+        "admin_pseudo": "admin"
+    },
+    "jwt": {
+        "secret_key": "a generated key",
+        "expiration_time": 86400
+    }
+}
